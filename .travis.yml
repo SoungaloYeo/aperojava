@@ -5,4 +5,6 @@ jdk:
 script: ./mvnw clean install
 
 notifications:
-  email: soungaloyeo@gmail.com komi.innocent@gmail.com
+  email: 
+        - soungaloyeo@gmail.com 
+        - komi.innocent@gmail.com
